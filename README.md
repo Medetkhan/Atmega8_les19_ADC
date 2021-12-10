@@ -1,4 +1,4 @@
-# Atmega8_project
+# Atmega8_19_Lesson
 
 /*
  * Les_19_MAL.c
